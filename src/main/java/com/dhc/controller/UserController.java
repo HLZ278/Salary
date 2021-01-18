@@ -28,7 +28,7 @@ public class UserController {
 		System.out.println("---"+user);
 		if (user != null) {
 			session.setAttribute("user", user);
-			mv.addObject("Msg", "欢迎登陆！！！2222！");
+			mv.addObject("Msg", "欢迎登陆！！！3333！");
 			mv.setViewName("main");
 		} else {
 			mv.setViewName("login");

@@ -1,47 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849a5483-03f8-4cb6-81ef-00abbc2a8567" name="Default Changelist" comment="1.0">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/02d8ba1bdac27d6f1d10c04bf89dab65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/2401c01dd3fdbe7d80f02b26d11d8f7f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/2c52d91c9521d197139e92cee16e8322.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/2f561b63b7d93a7f55573b99f212343b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/4c253d2a2f2878020a31c59b3212f915.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/6e699ec5be520e6910675864c16dcf6c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/722353e851c95d7ae608bd7ce5c75efc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/860d4f7f6782285406a96c092b38805d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/9a88975fec4255819a88f8d9c73c8948.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0309480.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0309567.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0309585.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0309598.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0309664.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0313896.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0313965.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0313970.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0313974.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0314068.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0315580.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0315612.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0321179.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0341439.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0341447.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0341448.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/J0341475.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/a7d22e6ac7ca51d76bd77b0153f32471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/b6d84db007670f31c7fceee72a270371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/bda0f673d11bb9b834cf063d0cfcd939.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/c3c589b89269495ca0ff70613e8247cf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/cbf6afd22398ff59fae4a016767ee154.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/d0e766c9f6a8134ecd1b2a4af85e74dc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/e2b59274bc2ab29739bdd2507edf0658.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/f2704a480c0a62225834866baae67dd8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/f34bc7403abd5264c7759cb124a9f361.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/img0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/img33.jpg" afterDir="false" />
+    <list default="true" id="849a5483-03f8-4cb6-81ef-00abbc2a8567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,12 +77,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610948781436</updated>
-      <workItem from="1610948786294" duration="4939000" />
+      <workItem from="1610948786294" duration="6487000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1610953860645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610953860645</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.0">
+      <created>1610953962779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610953962779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
@@ -140,47 +137,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="368" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610954227558" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1610954335665">
-    <state x="368" y="12" key="CommitChangelistDialog2" timestamp="1610955555181">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1610956341095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1610954335665" />
-    <state x="368" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610955555181" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1610956341095" />
     <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1610953758402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610953758402" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610953128927">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610953128927" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610953128926">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610953128926" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610953128926">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1610954295761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610953128926" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610953128926">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610954295761" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610953128926" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1610953128927">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610953128927" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1610953128927">
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610953128927" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1610953128927">
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610953128927" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1610953128927">
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1610954295762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610953128927" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610954295762" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1610953991169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610953991169" />
   </component>
 </project>

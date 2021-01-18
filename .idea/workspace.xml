@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849a5483-03f8-4cb6-81ef-00abbc2a8567" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dhc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dhc/controller/UserController.java" afterDir="false" />
-    </list>
+    <list default="true" id="849a5483-03f8-4cb6-81ef-00abbc2a8567" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -124,7 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+    <MESSAGE value="冲突测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="冲突测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Template_Data_Languages" timestamp="1610950039653">
@@ -183,5 +183,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610953991169" />
+    <state x="497" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610957453468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1610957453468" />
   </component>
 </project>

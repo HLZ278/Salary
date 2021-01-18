@@ -32,7 +32,7 @@ public class UserController {
 			mv.setViewName("main");
 		} else {
 			mv.setViewName("login");
-			mv.addObject("Msg", "用户名或密码错误，请重新输入！");
+			mv.addObject("Msg", "用户名或密码错误啦");
 		}
 		return mv;
 	}

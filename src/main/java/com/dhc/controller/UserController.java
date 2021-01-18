@@ -26,9 +26,10 @@ public class UserController {
 		ModelAndView mv = new ModelAndView();
 		User user = uService.login(userName, passwd);
 		System.out.println("---"+user);
+		System.out.println("---"+user);
 		if (user != null) {
 			session.setAttribute("user", user);
-			mv.addObject("Msg", "欢迎登陆！！！2222！");
+			mv.addObject("Msg", "欢迎登陆！！！4444！");
 			mv.setViewName("main");
 		} else {
 			mv.setViewName("login");
